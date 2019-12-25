@@ -1,2 +1,2 @@
 # hotlink-blocker
-Prevent hotlinking with pure javascript.
+> Prevent hotlinking with pure javascript.
