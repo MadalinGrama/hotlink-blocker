@@ -12,6 +12,6 @@ git clone https://github.com/MadalinGrama/hotlink-blocker.git
 ## :clipboard: Instructions
 
 ```html
-After git clone include Meteo.js before </body>
-<script src="path/to/meteo.js"></script>
+After git clone include hotlink-blocker before </body>
+<script src="path/to/hotlink-blocker.js"></script>
 ```
