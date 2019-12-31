@@ -9,3 +9,9 @@ cd my-project
 git clone https://github.com/MadalinGrama/hotlink-blocker.git
 
 ```
+## :clipboard: Instructions
+
+```html
+After git clone include Meteo.js before </body>
+<script src="path/to/meteo.js"></script>
+```
